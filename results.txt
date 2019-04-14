@@ -1,0 +1,12 @@
+accuracy score for polynomial kernel 1.0
+confusion matrix for polynomial kernel [[ 9  0  0]
+ [ 0 11  0]
+ [ 0  0 10]]
+accuracy score for guassian kernel 0.9666666666666667
+confusion matrix for guassian kernel [[ 9  0  0]
+ [ 0 10  1]
+ [ 0  0 10]]
+accuracy score for sigmoid kernel 0.3
+confusion matrix for sigmoid kernel [[ 9  0  0]
+ [11  0  0]
+ [10  0  0]]
